@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dice1"
+        android:title="1 dice" />
+
+    <item
+        android:id="@+id/dice2"
+        android:title="2 dice" />
+
+    <item
+        android:id="@+id/dice3"
+        android:title="3 dice" />
+
+    <item
+        android:id="@+id/dice4"
+        android:title="4 dice" />
+
+    <item
+        android:id="@+id/dice5"
+        android:title="5 dice" />
+
+    <item
+        android:id="@+id/dice6"
+        android:title="6 dice" />
+
+</menu>
